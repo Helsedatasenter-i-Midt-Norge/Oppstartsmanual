@@ -6,6 +6,7 @@ I nettleser (Microsoft Edge/Mozilla Firefox/Google Chrome/Safari osv.) gå til  
 ![Portal URL](bilder/PortalURL.jpg)
 
 Logg inn via ID-porten med  **BankID**. Hvis du bruker HMN Puls-PC og helsenett kan du logge inn med  **Buypass**.
+
 ![ID-porten](bilder/IDporten.jpg)
 
 
@@ -19,7 +20,7 @@ Launch VMWare Horizon Client (dette etterspørres ikke alltid):
 
 Horizon Client må installeres for tilgang til analyserom uten HMN Puls-PC. Lenker for å installere Horizon-klienten hvis den ikke er installert finner du her
 
-![Support](bilder/support.jpg)
+![Support](bilder/Support.jpg)
 
 Velg  **Åpne**. Hak gjerne av boksen for å alltid tillate portal.helsedatasenter.no
 
@@ -45,7 +46,7 @@ For å finne din prosjektmappe, åpne filutforsker inne i analyserommet på samm
 
 ![filutforsker](bilder/filutforsker.jpg)
 
-Oppdater fra "Finn mappa  **science**" til  **Forskning** & **Begrenset**? Nye illustrasjoner?
+<!-- Oppdater fra "Finn mappa  **science**" til  **Forskning** & **Begrenset**? Nye illustrasjoner? -->
 
 
 
