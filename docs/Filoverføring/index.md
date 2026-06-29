@@ -2,7 +2,9 @@
 
 ## Kryptering av personopplysninger
 Vi gjør oppmerksom på at alle filer med sensitivt innhold skal krypteres før opplasting. Dekrypter filen(e) etter nedlastning til analyserom. Programvaren 7-zip kan for eksempel brukes.
+
 -  [St. Olavs EQS kryptering veileder](https://eqsstolav.helse-midt.no/cgi-bin/document.pl?pid=stolav&DocumentID=30822&UnitID=2088)
+  
 -  [NTNU Kunnskapsbasen kryptering veileder](https://i.ntnu.no/wiki/-/wiki/Norsk/kryptering+av+filer)
 
 ## Filoverføring ut fra analyserom
