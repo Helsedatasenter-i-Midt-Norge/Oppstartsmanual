@@ -1,0 +1,122 @@
+# ============================================================================
+#
+# The configuration produced by default is meant to highlight the features
+# that Zensical provides and to serve as a starting point for your own
+# projects.
+#
+# ============================================================================
+
+[project]
+
+# The site_name is shown in the page header and the browser window title
+#
+# Read more: https://zensical.org/docs/setup/basics/#site_name
+site_name = "HDS Documentation"
+
+# The site_description is included in the HTML head and should contain a
+# meaningful description of the site content for use by search engines.
+#
+# Read more: https://zensical.org/docs/setup/basics/#site_description
+site_description = "Documentation for the linux and GPU servers at Helsedatasenteret."
+
+# The site_author attribute. This is used in the HTML head element.
+#
+# Read more: https://zensical.org/docs/setup/basics/#site_author
+site_author = "Helsedatasenteret @ St. Olavs Hostpital"
+
+# The site_url is the canonical URL for your site. When building online
+# documentation you should set this.
+# Read more: https://zensical.org/docs/setup/basics/#site_url
+#site_url = "https://www.example.com/"
+
+# The copyright notice appears in the page footer and can contain an HTML
+# fragment.
+#
+# Read more: https://zensical.org/docs/setup/basics/#copyright
+copyright = """
+Copyright &copy; 2026 Helsedatasenteret @ St. Olavs Hostpital
+"""
+
+repo_url="https://github.com/skarrea/HDSDocs"
+edit_uri = "edit/main/docs/"
+
+# Zensical supports both implicit navigation and explicitly defined navigation.
+# If you decide not to define a navigation here then Zensical will simply
+# derive the navigation structure from the directory structure of your
+# "docs_dir". The definition below demonstrates how a navigation structure
+# can be defined using TOML syntax.
+#
+# Read more: https://zensical.org/docs/setup/navigation/
+nav = [
+  {"Velkommen til analyserom" = "index.md"},
+  {"Kom-i-gang" = "Kom-i-gang.md"},
+  {"Programvarer" = [
+    "Programvarer/index.md",
+    "Programvarer/LibreOffice.md",
+    "Programvarer/Pycharm.md",
+    "Programvarer/Python.md",
+    "Programvarer/RStudio.md",
+    "Programvarer/SPSS.md",
+    "Programvarer/STATA.md",
+    "Programvarer/Uten tittel.md",
+    "Programvarer/VSCode.md"
+  ]},
+  {"Filoverføring" = [
+    "Filoverføring/index.md",
+    "Filoverføring/FileMail.md",
+    "Filoverføring/FileSender.md"
+  ]},
+]
+
+# ----------------------------------------------------------------------------
+# Section for configuring theme options
+# ----------------------------------------------------------------------------
+[project.theme]
+
+language = "en"
+
+features = [
+    "announce.dismiss",
+    "content.action.edit",
+
+    "content.code.annotate",
+    "content.code.copy",
+
+    "content.footnote.tooltips",
+
+    "content.tabs.link",
+    "content.tooltips",
+
+    "navigation.footer",
+    "navigation.indexes",
+    "navigation.instant",
+    "navigation.instant.prefetch",
+    "navigation.path",
+    "navigation.top",
+    "navigation.tracking",
+
+    "search.highlight",
+]
+
+# Palette toggle for automatic mode
+[[project.theme.palette]]
+media = "(prefers-color-scheme)"
+toggle.icon = "lucide/sun-moon"
+toggle.name = "Switch to light mode"
+
+# Palette toggle for light mode
+[[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
+scheme = "default"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark mode"
+
+# Palette toggle for dark mode
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+scheme = "slate"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to system preference"
+
+[project.plugins.offline]
+enabled = true
