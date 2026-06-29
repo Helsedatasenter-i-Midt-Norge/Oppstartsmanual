@@ -37,7 +37,7 @@ copyright = """
 Copyright &copy; 2026 Helsedatasenteret @ St. Olavs Hostpital
 """
 
-repo_url="https://github.com/skarrea/HDSDocs"
+repo_url="https://github.com/Helsedatasenter-i-Midt-Norge/Oppstartsmanual"
 edit_uri = "edit/main/docs/"
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
