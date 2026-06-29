@@ -15,8 +15,11 @@ Kun aggregerte data, fullstendig anonymiserte statistiske resultater eller analy
 ## Godkjente filoverføring tjenester
 
 For å overføre filer til og fra Analyserom må det benyttes en godkjent filoverføringstjeneste.
+
 - Prosjekter som har NTNU som dataansvarlig virksomhet kan benytte seg av [**Sikt FileSender**](FileSender.md).
+
 - Prosjekter med øvrige institusjoner som dataansvarlig virksomhet skal benytte [**FileMail**](FileMail.md) til filoverføring.
+  
 - Filer kan også importeres fra **eFORSK** eller **Ledidi**, hvis man har et prosjekt med disse tjenestene.
 
 Disse forbeholdene angår databehandleravtaler mellom institusjoner og tjenestebruk.
