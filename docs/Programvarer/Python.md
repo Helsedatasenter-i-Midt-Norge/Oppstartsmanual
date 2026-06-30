@@ -22,7 +22,7 @@ Last ned som .whl (“Wheel”) format som er tilpasset versjonen av Python du s
 
 **ISA:** AMD64 
 
-![PyPi](bilder/PyPi1.jpg)![PyPi](bilder/PyPi2.jpg)
+![PyPi](bilder/pypi1.jpg)![pypi](bilder/pypi2.jpg)
 
 ##### Laste ned `.whl`-filer fra `requirements.txt`
 
