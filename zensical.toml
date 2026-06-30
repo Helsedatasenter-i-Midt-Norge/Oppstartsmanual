@@ -49,16 +49,16 @@ edit_uri = "edit/main/docs/"
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
   {"Velkommen til analyserom" = "index.md"},
-  {"Kom-i-gang" = "Kom-i-gang.md"},
+  {"Kom i gang" = "Kom-i-gang.md"},
   {"Programvarer" = [
     "Programvarer/index.md",
+    "Programvarer/Conquest.md",
     "Programvarer/LibreOffice.md",
     "Programvarer/Pycharm.md",
     "Programvarer/Python.md",
     "Programvarer/RStudio.md",
     "Programvarer/SPSS.md",
     "Programvarer/STATA.md",
-    "Programvarer/Uten tittel.md",
     "Programvarer/VSCode.md"
   ]},
   {"Filoverføring" = [
