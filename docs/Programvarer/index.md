@@ -8,11 +8,11 @@ _Hvis du ikke ha tilgang til en programvare du mener du skal ha tilgang til, ta 
 
 Program som R, IBM SPSS, Libre Office og Python finner du ved å gå på hovedmenyknappen nederst på siden av analyserommet. Derfra velg Alle apper. Scroll eller søk opp programvaren du ønsker å bruke. Når programmet er åpnet, åpner du filer som på vanlig måte fra prosjektmappa under science (S:)/Forskning(F:).
 
-![StartMeny](bilder/Apps1.jpg)
+![StartMeny](bilder/apps1.jpg)
 
 Alternativt kan du åpne filen direkte fra mappen ved å høyreklikke og velge åpne i >:
 
-![Rightclick](bilder/Apps2.jpg)
+![Rightclick](bilder/apps2.jpg)
 
 ## Tilgjengelige programvarer
 | Programvare      |(Versjon) Beskrivelse | Tilgjengelighet |
