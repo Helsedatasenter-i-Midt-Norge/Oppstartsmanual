@@ -28,7 +28,7 @@ Alternativt kan du åpne filen direkte fra mappen ved å høyreklikke og velge �
 | [PyCharm Community Edition](Pycharm.md) | (2025.2.2) Integrert utviklingsmiljø (IDE) brukt til programmering i Python |Kan bestilles|
 | [Visual Studio Code](VSCode.md) | (1.106.3) Allsidig integrert utviklingsmiljø (IDE) |Kan bestilles|
 | Notepad ++ | (8.9.1) Enkel, lett og utvidbar programmeringsredigerer for ren tekst |Standard i alle analyserom|
-| Conquest DICOM Server | (1.5.0f) svært konfigurerbart, bildearkiverings- og kommunikasjonssystem (PACS) |Kan bestilles|
+| [Conquest DICOM Server](Conquest.md) | (1.5.0f) svært konfigurerbart, bildearkiverings- og kommunikasjonssystem (PACS) |Kan bestilles|
 | 3DSlicer (Slicer) | (5.8.1) Programvarepakke for bildeanalyse og vitenskapelig visualisering |Kan bestilles|
 | NVivo | (15.0.0) et kraftig programvareverktøy for kvalitativ dataanalyse |Snart tilgjengelig ved bestilling|
 
