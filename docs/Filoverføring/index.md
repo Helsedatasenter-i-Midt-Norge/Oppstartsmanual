@@ -1,20 +1,20 @@
-# Filoverføring til og fra analyserom
+# Filoverføring til og fra Analyserom
 
 ## Kryptering av personopplysninger
-Vi gjør oppmerksom på at alle filer med sensitivt innhold skal krypteres før opplasting. Dekrypter filen(e) etter nedlastning til analyserom. Programvaren 7-zip kan for eksempel brukes.
+Vi gjør oppmerksom på at alle filer med sensitivt innhold skal krypteres før opplasting. Krypteringspassord skal kun deles med forsker som skal motta og behandle filen(e) i Analyserom. Krypteringspassord skal ikke deles med rådgiver i Helsedatasenter. Dekrypter filen(e) etter nedlastning til analyserom. Programvaren 7-zip skal brukes.
 
 -  [St. Olavs EQS kryptering veileder](https://eqsstolav.helse-midt.no/cgi-bin/document.pl?pid=stolav&DocumentID=30822&UnitID=2088)
   
 -  [NTNU Kunnskapsbasen kryptering veileder](https://i.ntnu.no/wiki/-/wiki/Norsk/kryptering+av+filer)
 
-## Filoverføring ut fra analyserom
+## Filoverføring ut fra Analyserom
 Selv om data kan overføres relativt fritt til et analyserom, må du være oppmerksom på at i samsvar med [EHDS artikkel 73](https://eur-lex.europa.eu/eli/reg/2025/327/oj/eng) kan ikke personlige eller pseudonymiserte helsedata eksporteres fra analyserommet.
 
 Kun aggregerte data, fullstendig anonymiserte statistiske resultater eller analytiske funn kan eksporteres fra et analyserom.
 
 
 
-## Godkjente filoverføring tjenester
+## Godkjente filoverføringstjenester
 
 For å overføre filer til og fra Analyserom må det benyttes en godkjent filoverføringstjeneste.
 
