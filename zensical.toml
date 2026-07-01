@@ -50,9 +50,9 @@ edit_uri = "edit/main/docs/"
 nav = [
   {"Velkommen til analyserom" = "index.md"},
   {"Kom i gang" = [
-  {"Kom i gang" = "kom-i-gang/index.md"},
-  {"Utklippstavle" = "kom-i-gang/Utklippstavle.md"}
-]},
+    "kom-i-gang/index.md",
+    "kom-i-gang/Utklippstavle.md"
+   ]},
   {"Programvarer" = [
     "Programvarer/index.md",
     "Programvarer/Conquest.md",
