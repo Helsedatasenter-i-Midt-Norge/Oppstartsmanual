@@ -1,12 +1,12 @@
 # Filemail
 
 Filemail er en sky-basert filoverføringstjeneste, levert av selskapet Filemail som tillater brukere å 
-sende store filer via internett. Filemail-nettsider er "whitelisted" i analyserom og kan derfor brukes for å overføre filer til og fra et analyserom.
+sende store filer via internett. Filemail-nettsider er "whitelisted" i Analyserom og kan derfor brukes for å overføre filer til og fra et analyserom.
 
 _Hvis du ikke har mottatt lenke til opplastingsportal og tilhørende passord via e-post, kan du kontakte din Helsedatasenter-rådgiver._
 
 ## Last opp filer
-Du, eller datakilden din (for eksempel Helsedataservice), må åpne lenken til opplastingsportalen (`https://hemit.filemail/...`, mottatt via e-post) i en nettleser utenfor analyserom. Når siden er lastet inn, må du skrive inn tilsendt passord og trykk på "Unlock".
+Du, eller datakilden din (for eksempel Helsedataservice), må åpne lenken til opplastingsportalen (`https://hemit.filemail/...`, mottatt via e-post) i en nettleser utenfor Analyserom. Når siden er lastet inn, må du skrive inn tilsendt passord og trykk på "Unlock".
 
 ![Portal unlock](bilder/Portal1.jpg)
 ---
@@ -25,7 +25,7 @@ Trykk på send og få bekreftelse på at filene er sendt.
 ![Bekreftelse](bilder/confirmation.jpg)
 
 ## Last ned filer
-Etter en Helsedatasenter-rådgiver har håndtert overføringen, vil angitt(e) mottaker(e) motta en e-post med en passordbeskyttet lenke for å laste ned filen, og en ny e-post med tilhørende passord. Klikk på lenken. Hvis du laster ned til et analyserom, kopierer du først URL-en (`https://hemit.filemail/...`) fra en nettleser utenfor analyserom til en nettleser i analyserommet og fortsetter prosessen der.
+Etter en Helsedatasenter-rådgiver har håndtert overføringen, vil angitt(e) mottaker(e) motta en e-post med en passordbeskyttet lenke for å laste ned filen, og en ny e-post med tilhørende passord. Klikk på lenken. Hvis du laster ned til et analyserom, kopierer du først URL-en (`https://hemit.filemail/...`) fra en nettleser utenfor Analyserom til en nettleser i analyserommet og fortsetter prosessen der.
 
 ![Portal](bilder/download1.jpg)
 
@@ -42,13 +42,13 @@ Du kan deretter laste ned filene enten ved å:
 ![Portal](bilder/download5.jpg)
 
 ## Kryptering av personopplysninger
-Vi gjør oppmerksom på at alle filer med sensitivt innhold skal krypteres før opplasting. Dekrypter filen(e) etter nedlastning til analyserom. Programvaren 7-zip skal brukes.
+Vi gjør oppmerksom på at alle filer med sensitivt innhold skal krypteres før opplasting. Dekrypter filen(e) etter nedlastning til Analyserom. Programvaren 7-zip skal brukes.
 
 -  [St. Olavs EQS kryptering veileder](https://eqsstolav.helse-midt.no/cgi-bin/document.pl?pid=stolav&DocumentID=30822&UnitID=2088)
 
 -  [NTNU Kunnskapsbasen kryptering veileder](https://i.ntnu.no/wiki/-/wiki/Norsk/kryptering+av+filer)
 
 ## Husk å overføre filer til prosjektmappen
-Filene lastes ned som standard til Downloads-mappen (C:/) i analyserom, slik som på en vanlig PC. Filene må overføres til prosjektmappen (S:/). Filer i Downloads blir slettet når du logger av analyserommet. 
+Filene lastes ned som standard til Downloads-mappen (C:/) i Analyserom, slik som på en vanlig PC. Filene må overføres til prosjektmappen (S:/). Filer i Downloads blir slettet når du logger av analyserommet. 
 
 _Sist oppdatert: 2026-06-24_
