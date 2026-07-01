@@ -18,7 +18,7 @@ Launch VMWare Horizon Client (dette etterspørres ikke alltid):
 
 ![LaunchHorizonClient](bilder/LaunchHorizonClient.jpg)
 
-Horizon Client må installeres for tilgang til analyserom uten HMN Puls-PC. Lenker for å installere Horizon-klienten hvis den ikke er installert finner du her
+Horizon Client må installeres for tilgang til Analyserom uten HMN Puls-PC. Lenker for å installere Horizon-klienten hvis den ikke er installert finner du her
 
 ![Support](bilder/Support.jpg)
 
@@ -36,7 +36,7 @@ Bruk navigasjonslinjen øverst hvis du ønsker å gå ut av fullskjerm, for ekse
 
 ![ExitFullscreen](bilder/ExitFullscreen2.jpg)
 
-Dersom du navigerer bort fra arbeidsflaten til analyserommet, finner du det igjen på startlinjen som et blågrønn ikon av et sky:
+Dersom du navigerer bort fra arbeidsflaten til analyserommet, finner du det igjen på startlinjen som et blågrønt ikon av en sky:
 
 ![Icon](bilder/Icon.jpg)
 
