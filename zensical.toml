@@ -49,7 +49,10 @@ edit_uri = "edit/main/docs/"
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
   {"Velkommen til analyserom" = "index.md"},
-  {"Kom i gang" = "Kom-i-gang.md"},
+  {"Kom i gang" = [
+    "Kom-i-gang.md",
+    "Utklippstavle.md"
+  ]},
   {"Programvarer" = [
     "Programvarer/index.md",
     "Programvarer/Conquest.md",
@@ -66,7 +69,7 @@ nav = [
     "Filoverføring/FileMail.md",
     "Filoverføring/FileSender.md"
   ]},
-  {"OBS - oppdateringer" = "Oppdateringer.md"},
+  {"Viktig informasjon" = "Oppdateringer.md"},
 ]
 
 # ----------------------------------------------------------------------------
