@@ -42,11 +42,7 @@ Du kan deretter laste ned filene enten ved å:
 ![Portal](bilder/download5.jpg)
 
 ## Kryptering av personopplysninger
-Vi gjør oppmerksom på at alle filer med sensitivt innhold skal krypteres før opplasting. Dekrypter filen(e) etter nedlastning til Analyserom. Programvaren 7-zip skal brukes.
-
--  [St. Olavs EQS kryptering veileder](https://eqsstolav.helse-midt.no/cgi-bin/document.pl?pid=stolav&DocumentID=30822&UnitID=2088)
-
--  [NTNU Kunnskapsbasen kryptering veileder](https://i.ntnu.no/wiki/-/wiki/Norsk/kryptering+av+filer)
+-  [Se veiledning for kryptering](https://github.com/Helsedatasenter-i-Midt-Norge/Oppstartsmanual/blob/main/docs/Filoverf%C3%B8ring/index.md#kryptering-av-personopplysninger)
 
 ## Husk å overføre filer til prosjektmappen
 Filene lastes ned som standard til Downloads-mappen (C:/) i Analyserom, slik som på en vanlig PC. Filene må overføres til prosjektmappen (S:/). Filer i Downloads blir slettet når du logger av analyserommet. 
