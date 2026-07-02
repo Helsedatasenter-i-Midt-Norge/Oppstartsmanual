@@ -4,13 +4,13 @@ _Programvarepakke for datamanipulering, visualisering, statistikk og automatiser
 
 ---
 ## Lisensbruk
-STATA lisensene fordelt ved hjelp av en egen lisensserver. Vi har totalt 25 samtidige lisenser tilgjengelig på deling mellom alle foretakene.
+Statalisensene fordeles ved hjelp av en egen lisensserver. Vi har totalt 25 samtidige lisenser tilgjengelig på deling mellom alle foretakene.
 
 Man holder på en lisens for hver gang man starter ikonet. For å unngå å oppta unødige lisenser så ber vi om at dere kun starter selve programmet en gang, og deretter heller åpner flere datasett inni selve programmet.
 
 ## Lagring av data og tilleggspakker
 
-Filer som er lagret av brukere på analyserommets C:/ område vil av sikkerhetsmessige grunner bli slettet etter utlogging, samme som på jobb-PC fra Helse Midt Norge.  Dette betyr at ikke kun data, men også Stata-innstillinger og pakker slettes om man ikke endrer område for lagring. For at pakker skal kunne gjenfinnes og gjenopprettes neste gang man logger inn må de lagres på analyserommets mappe på S:/. Av sikkerhetsmessige grunner er ikke SSC (http://fmwww.bc.edu/) eller Github tilgjengelig fra analyserom.
+Filer som er lagret av brukere på analyserommets C:/ område vil av sikkerhetsmessige grunner bli slettet etter utlogging, samme som på jobb-PC fra Helse Midt Norge.  Dette betyr at ikke kun data, men også Statainnstillinger og pakker slettes om man ikke endrer område for lagring. For at pakker skal kunne gjenfinnes og gjenopprettes neste gang man logger inn må de lagres på analyserommets mappe på S:/. Av sikkerhetsmessige grunner er ikke SSC (http://fmwww.bc.edu/) eller Github tilgjengelig fra analyserom.
 
 En del tilleggspakker har blitt installert for alle brukere. Hvis du trenger andre pakker finnes veiledning for dette nederst på denne siden.
 
@@ -86,7 +86,7 @@ Kjør følgende i Stata
 
 ### Last ned .ado og .sthlp/.hlp filer på vanlig PC med internettilkobling
 
-På en vanlig PC med STATA installert og internettilkobling, finn PLUS-mappen 
+På en vanlig PC med Stata installert og internettilkobling, finn PLUS-mappen 
 
     Sysdir 
 
@@ -97,16 +97,16 @@ eller
 
     Net install «pakkenavn» from «URL» 
 
-Pakken og avhengigheter blir lagret i PLUS-mappen, i en submappe oppkalt etter den første bokstaven i pakkenavnet(ene). De viktigste filene er .ado og .sthlp eller .hlp filer. 
-F.eks., batplot filer finnes i C:/stata/plus/b/ og heter batplot.ado, og batplot.sthlp 
+Pakken og avhengigheter blir lagret i PLUS-mappen, i en submappe oppkalt etter den første bokstaven i pakkenavnet. De viktigste filene er .ado og .sthlp eller .hlp filer. 
+F.eks., batplotfiler finnes i C:/stata/plus/b/ og heter batplot.ado, og batplot.sthlp 
  
-### Overfør pakkefilene til analyserom 
-Med bruk av enten FileMail (ta kontakt med rådgiveren din i Helsedatasenteret) eller hvis du har tilgang, FileSender, send filene til analyserommet ditt, og legg filene i PLUS-mappen. 
-Nå skal det være mulig å kjøre pakken din i Stata i analyserom. Hvis det ikke fungerer er det mulig at flere avhengigheter trenges – les gjennom .sthlp/.hlp og .ado filene. Ta kontakt med rådgiveren din for bistand. 
+### Overfør pakkefilene til Analyserom 
+Med bruk av enten Filemail (ta kontakt med rådgiveren din i Helsedatasenteret) eller hvis du har tilgang, FileSender, send filene til analyserommet ditt, og legg filene i PLUS-mappen. 
+Nå skal det være mulig å kjøre pakken din i Stata i Analyserom. Hvis det ikke fungerer er det mulig at flere avhengigheter trengs – les gjennom .sthlp/.hlp og .adofilene. Ta kontakt med rådgiveren din for bistand. 
 
 
 ## Dokumentasjon
-Offisiell dokumentasjon og veiledning for STATA [finnes her](https://www.statanordic.com/StataResources.html).
+Offisiell dokumentasjon og veiledning for Stata [finnes her](https://www.statanordic.com/StataResources.html).
 
 
 
