@@ -41,7 +41,7 @@ Bekreft at [1] er satt til ønsket bane
 ![RStudio1](bilder/RStudio5.jpg)
 
 ### Sett CRAN-speilet til å laste ned pakker fra
-_Kun UIB's CRAN-speil som er whitelistet i analyserom_
+_Kun UIB's CRAN-speil som er whitelistet i Analyserom_
 
     r <- getOption("repos") 
     r["CRAN"] <- "https://cran.uib.no/" 
@@ -61,7 +61,7 @@ Bytt ut <pakkenavn> med navn av pakken fra [denne listen](https://cran.r-project
 ![RStudio1](bilder/RStudio6.jpg)
 
 ## .Rprofile. 
-Hver gang prosjektet åpnes kjøres alle kommandoer i .Rprofile i prosjektmappen. Dette er en ryddig måte å kjøre samme innstillinger hver gang i prosjektet ditt og slippe å endre instillinger manuelt hver gang man logger seg inn.
+Hver gang prosjektet åpnes kjøres alle kommandoer i .Rprofile i prosjektmappen. Dette er en ryddig måte å kjøre samme innstillinger hver gang i prosjektet ditt, og du slipper å endre instillinger manuelt ved hver innlogging.
 
 ![RStudio1](bilder/RStudio7.jpg)
 
