@@ -8,7 +8,8 @@ _Programmeringsspråk og programvaremiljø som brukes til statistiske beregninge
 
 Filer som er lagret av brukere på analyserommets C:/ område vil av sikkerhetsmessige grunner bli slettet etter utlogging, samme som på vanlig St. Olavs PCer.  Dette betyr at ikke kun data, men også innstillinger og pakker i R slettes om man ikke endrer område for lagring. For at innstillinger og pakker i R skal gjenfinnes og gjenopprettes neste gang man logger inn må de lagres på analyserommets mappe på S:/ området. Bruk denne prosedyren for endre lagringsmappen i R.
 
-[!NOTE] Merk at, i motsetning til Windows, i Rstudio må man bruke / og ikke \ i mappebaner.
+!!! note "Skråstreker"
+    Merk at, i motsetning til Windows, i Rstudio må man bruke / og ikke \ i mappebaner.
 
 ### Opprett et nytt prosjekt i en mappe på S:/, eller åpne et eksisterende prosjekt lagret på S:/. 
 
