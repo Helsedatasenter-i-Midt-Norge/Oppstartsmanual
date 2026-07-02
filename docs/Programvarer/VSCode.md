@@ -6,7 +6,7 @@ _Allsidig integrert utviklingsmiljø (IDE)_
 
 ## Extensions og andre online-tjenester
 
-Visual Studio Code i analyserom har ikke tilgang til Microsofts online-tjenester, som Extension Marketplace, Copilot, og IntelliSense/språkservere.
+Visual Studio Code i Analyserom har ikke tilgang til Microsofts online-tjenester, som Extension Marketplace, Copilot, og IntelliSense/språkservere.
 
 Extensions kan bli installert manuelt
 
