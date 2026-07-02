@@ -1,6 +1,6 @@
 # LibreOffice
 
-_For bedre funksjonalitet uten internett, og av lisensieringshensyn, er analyserom utstyrt med LibreOffice i stedet for Microsoft Office 365._
+_For bedre funksjonalitet uten internett, og av lisensieringshensyn, er Analyserom utstyrt med LibreOffice i stedet for Microsoft Office 365._
 
 ---
 
