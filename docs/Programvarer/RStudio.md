@@ -60,7 +60,7 @@ Bytt ut <pakkenavn> med navn av pakken fra [denne listen](https://cran.r-project
 
 ![RStudio1](bilder/RStudio6.jpg)
 
-## .Rprofile. 
+## .Rprofile 
 Hver gang prosjektet åpnes kjøres alle kommandoer i .Rprofile i prosjektmappen. Dette er en ryddig måte å kjøre samme innstillinger hver gang i prosjektet ditt, og du slipper å endre instillinger manuelt ved hver innlogging.
 
 ![RStudio1](bilder/RStudio7.jpg)
