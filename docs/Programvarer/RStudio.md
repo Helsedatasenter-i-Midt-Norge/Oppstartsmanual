@@ -68,8 +68,11 @@ Hver gang prosjektet åpnes kjøres alle kommandoer i .Rprofile i prosjektmappen
 ## Dokumentasjon
 
 Lenker til offisiell dokumentasjon for:
+
 - [R](https://cran.r-project.org/)
+  
 - [RStudio](https://docs.posit.co/ide/user/)
+  
 - [CRAN package repository](https://cran.r-project.org/web/packages/available_packages_by_date.html)
 
-_Sist oppdatert: 2026-06-18_
+_Sist oppdatert: 2026-07-02_
