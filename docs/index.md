@@ -1,7 +1,9 @@
 # Helsedatasenteret i Midt-Norge
 ## Oppstartsmanual Analyserom
 
-Denne manualen er for brukere av Analyserom i Helsedatasenter i Midt-Norge. Her finner du praktiske tips og veiledning for innlogging, navigering, import/eksport av filer og riktig installasjon og bruk av programvarer.
+Denne manualen er for brukere av Analyserom i Helsedatasenter i Midt-Norge. Analyserom er en Virtual Desktop Infrastructure (VDI) som er en løsning der man logger seg på en "virtuell arbeids-PC". Skrivebordet og programmene kjører på en sentral server i vårt datasenter, i stedet for på din lokale PC. Derfor kan du og dine prosjektmedarbeidere få tilgang til samme arbeidsmiljø fra ulike enheter. 
+
+I denne oppstartsmanualen finner du praktiske tips og veiledning for innlogging, navigering, import/eksport av filer og riktig installasjon og bruk av programvarer.
 
 For å navigere i denne manualen, se etter relevante emner i panelet til venstre. For å navigere innenfor gjeldende side, bruk overskriftene i panelet til høyre. Det er også mulig å søke i hele manualen ved bruk av "search" feltet øverst i vinduet. For å åpne lenker i en ny fane, `ctrl-klikk` på lenken.
 
