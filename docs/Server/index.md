@@ -1,6 +1,8 @@
 # Server/tungregningsklient
 
-Ved behov kan prosjekter i Analyserom få tilgang til en server. Serveren gir større lagringsplass, mer minne og CPU-kjerner og større muligheter for tilpasninger. Derav kalles også server for en tungregningsklient. Man kobles til en sentral server fra den virtuelle arbeidsflaten (VDI) i Analyserom for å bruke tungregningsklienten. Denne delen omhandler Windows-servere.
+Ved behov kan prosjekter i Analyserom få tilgang til en server. Serveren gir større lagringsplass, mer minne og CPU-kjerner og større muligheter for tilpasninger. Derav kalles også server for en tungregningsklient. Man kobles til en sentral server fra den virtuelle arbeidsflaten (VDI) i Analyserom for å bruke tungregningsklienten. 
+
+Denne delen omhandler Windows-servere.
 
 ### Navigering
 Du finner server tilhørende analyserommet ved å trykke på hovedmenyknappen inne i Analyserom, deretter `Alle >` hvor den er lokalisert under mappen "Analyserom".
