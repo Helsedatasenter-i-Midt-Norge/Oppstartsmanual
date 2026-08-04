@@ -18,7 +18,7 @@ På en PC med nettilgang:
 
 1. Gå til [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/vscode)
 
-2. Finn ønsket extension
+2. Finn ønsket extension. Utvidelser må være kompatible med VS Code‑versjonen.
 
 3. Last ned extension som en `.vsix`‑fil fra [VSIX Download](https://github.pratikpathak.com/vsix-downloader/) (bruk win32-x64 versjoner)
 
@@ -50,11 +50,6 @@ Anbefalt fremgangsmåte:
 - Installer dem manuelt på samme måte
 
 ---
-
-## 4. Versjonskompatibilitet
-
-Utvidelser må være kompatible med VS Code‑versjonen.
-
 
 ## Dokumentasjon og lenker
 
