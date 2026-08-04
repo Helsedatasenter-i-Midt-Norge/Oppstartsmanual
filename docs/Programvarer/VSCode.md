@@ -51,18 +51,9 @@ Anbefalt fremgangsmåte:
 
 ---
 
-## 4. Versjonskompatibilitet (kritisk)
+## 4. Versjonskompatibilitet
 
-Utvidelser må være kompatible med VS Code‑versjonen din.
-
-Viktig å vite:
-- Utvidelsen må støtte din spesifikke VS Code‑versjon
-- Inkompatible utvidelser kan:
-  - Feile under installasjon
-  - Bli deaktivert automatisk
-
-✅ Tips:
-- Standardiser på én VS Code‑versjon i organisasjonen
+Utvidelser må være kompatible med VS Code‑versjonen.
 
 
 ## Dokumentasjon og lenker
