@@ -8,7 +8,7 @@
 	Analyserommet er nede for vedlikehold. Vi beklager ulempen dette medfører. Se egen [Status side](Status.md) for mer informasjon. -->
 
 !!! Failure "Status: analyserom er nede"
-	Tjenesten er midlertidig utilgjengelig som følge av et sikkerhetstiltak knyttet til nylig avdekkede sårbarheter i Citrix NetScaler. Se egen [Status side](Status.md) for mer informasjon.
+	Tjenesten er midlertidig utilgjengelig som følge av et sikkerhetstiltak. HEMIT forventer at tjenestene skal være tilgjengelig i løpet av 08.10. Se egen [Status side](Status.md) for mer informasjon.
 
 ## Oppstartsmanual Analyserom
 

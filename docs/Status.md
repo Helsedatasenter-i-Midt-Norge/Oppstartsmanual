@@ -4,7 +4,7 @@
 	Dette kan medføre at du ikke får logget inn i Analyserommet. Vi anbefaler at du prøver å logge inn på nytt senere. Se [ID-porten sin status-side](https://status.digidir.no/) for mer informasjon. -->
 
 !!! Failure "Status: analyserom er nede"
-	Tjenesten er midlertidig utilgjengelig som følge av nylig avdekkede kritiske sårbarheter i Citrix NetScaler. Tjenesten er tatt ned som et forebyggende sikkerhetstiltak mens situasjonen undersøkes og nødvendige tiltak gjennomføres. Vi oppdaterer status så snart vi har mer informasjon.
+	Tjenesten er midlertidig utilgjengelig som følge av nylig avdekkede kritiske sårbarheter i Citrix NetScaler. Tjenesten er tatt ned som et forebyggende sikkerhetstiltak mens situasjonen undersøkes og nødvendige tiltak gjennomføres. HEMITE forventer at tjenesten skal være tilgjengelig i løpet av torsdag 08.10. 
 
 ## Historikk
 
