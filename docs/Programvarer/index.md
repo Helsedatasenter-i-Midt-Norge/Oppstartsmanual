@@ -18,6 +18,7 @@ Alternativt kan du åpne filen direkte fra mappen ved å høyreklikke og velge �
 | Programvare      |(Versjon) Beskrivelse | Tilgjengelighet |
 | ----------- | ----------- |----------------|
 | 7-Zip      | (25.01) Filarkiverings- og krypteringsprogram      | Standard i alle analyserom
+| VLC media player | (3.0.24) Gratis mediespiller for lyd- og videofiler      | Standard i alle analyserom
 | [LibreOffice](LibreOffice.md)   | (25.8) Programvarepakke for kontorproduktivitet. Tilsvarer Microsoft Office        |Standard i alle analyserom
 | Microsoft Edge | (149.0) Nettleser |Standard i alle analyserom|
 | [IBM SPSS Statistics](SPSS.md) | (30.0) Programvarepakke med grafisk grensesnitt for statistiske beregninger |Kan bestilles|
