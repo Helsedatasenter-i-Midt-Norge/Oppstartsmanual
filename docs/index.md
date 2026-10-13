@@ -1,11 +1,11 @@
 # Helsedatasenteret i Midt-Norge
-<!--!!! Success "Status: Ingen kjente problemer"-->
+!!! Success "Status: Ingen kjente problemer"
 
 <!-- !!! Warning "Status: redusert funksjonalitet for ID-porten"
 	Dette kan medføre at du ikke får logget inn i Analyserommet. Vi anbefaler at du prøver å logge inn på nytt senere. Se egen [Status side](Status.md) og [ID-porten sin status-side](https://status.digidir.no/) for mer informasjon. -->
 
-!!! Failure "Status: Analyserom er nede"
-	Analyserommet er nede for vedlikehold. Vi beklager ulempen dette medfører. Se egen [Status side](Status.md) for mer informasjon. 
+<!--!!! Failure "Status: Analyserom er nede"
+	Analyserommet er nede for vedlikehold. Vi beklager ulempen dette medfører. Se egen [Status side](Status.md) for mer informasjon. -->
 
 
 ## Oppstartsmanual Analyserom
