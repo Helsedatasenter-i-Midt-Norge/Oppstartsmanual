@@ -34,4 +34,4 @@ Alternativt kan du åpne filen direkte fra mappen ved å høyreklikke og velge �
 | NVivo | (15.0.0) et kraftig programvareverktøy for kvalitativ dataanalyse |Snart tilgjengelig ved bestilling|
 
 
-_Sist oppdatert: 2026-06-30_
+_Sist oppdatert: 2026-10-13_
