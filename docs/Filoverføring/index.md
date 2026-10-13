@@ -27,7 +27,7 @@ For å overføre filer til og fra Analyserom må det benyttes en godkjent filove
 Disse forbeholdene angår databehandleravtaler mellom institusjoner og tjenestebruk.
 
 ## Husk å overføre filer til prosjektmappen
-Filene lastes ned som standard til Downloads-mappa, slik som på en vanlig PC. Filene må overføres til prosjektmappa. Filer i Downloads blir slettet når du logger av analyserommet. 
+Filene lastes ned som standard til Downloads-mappa, slik som på en vanlig PC. Filene må overføres til prosjektmappa (S:/...). Filer i Downloads blir slettet når du logger av analyserommet. 
 
 
 
