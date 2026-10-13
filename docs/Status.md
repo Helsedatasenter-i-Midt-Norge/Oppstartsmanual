@@ -1,11 +1,13 @@
-<!--!!! Success "Status: Ingen kjente problemer" -->
+!!! Success "Status: Ingen kjente problemer" 
 
 <!-- !!! Warning "Status: redusert funksjonalitet for ID-porten"
 	Dette kan medføre at du ikke får logget inn i Analyserommet. Vi anbefaler at du prøver å logge inn på nytt senere. Se [ID-porten sin status-side](https://status.digidir.no/) for mer informasjon. -->
 
-!!! Failure "Status: analyserom er nede" 
+<!--!!! Failure "Status: analyserom er nede" -->
 
 ## Historikk
+**2026-10-13 09:59** Analyserom er oppe igjen. Ingen kjente problemer
+
 **2026-10-12 16:30** Analyserom er stengt frem til cirka kl. 12:00 2026-10-13 på grunn av pågående arbeid med tjenesten.
 
 **2026-10-12 12:00** ID-porten har redusert funksjonalitet. Dette kan medføre at du ikke får logget inn i Analyserommet med Bank-ID. Buypass innlogging funker som vanlig
