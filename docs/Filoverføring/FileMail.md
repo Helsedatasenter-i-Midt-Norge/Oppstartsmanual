@@ -59,4 +59,4 @@ Du kan deretter laste ned filene enten ved å:
 ## Husk å overføre filer til prosjektmappen
 Filene lastes ned som standard til Downloads-mappen (C:/) i Analyserom, slik som på en vanlig PC. Filene må overføres til prosjektmappen (S:/). Filer i Downloads blir slettet når du logger av analyserommet. 
 
-_Sist oppdatert: 2026-06-24_
+_Sist oppdatert: 2026-10-14_
