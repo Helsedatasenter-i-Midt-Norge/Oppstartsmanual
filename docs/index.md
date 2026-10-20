@@ -1,6 +1,6 @@
 # Helsedatasenteret i Midt-Norge
 
-[Helsedatasenter innloggingsportal](https://portal.helsedatasenter.no/)
+<span style="font-size:20px">[Helsedatasenter Analyserom innloggingsportal](https://portal.helsedatasenter.no/)</span>
 
 !!! Success "Status: Ingen kjente problemer"
 
