@@ -46,7 +46,10 @@ For å finne din prosjektmappe, åpne filutforsker inne i analyserommet på samm
 
 ![filutforsker](bilder/filutforsker.jpg)
 
-<!-- Oppdater fra "Finn mappa  **science**" til  **Forskning** & **Begrenset**? Nye illustrasjoner? -->
+Prosjektmappe finnes på S:/. Prosjektdata må lagres her. Data lagret på C:/ blir slettet ved utlogging.
+
+![prosjektmappe](bilder/prosjektmappe.jpg)
+
 
 
 
