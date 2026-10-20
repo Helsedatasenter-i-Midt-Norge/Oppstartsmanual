@@ -1,4 +1,4 @@
-# Helsedatasenteret i Midt-Norge
+# Helsedatasenter i Midt-Norge
 
 [Helsedatasenter Analyserom innloggingsportal](https://portal.helsedatasenter.no/)
 
