@@ -53,4 +53,4 @@ Prosjektmappe finnes på S:/. Prosjektdata må lagres her. Data lagret på C:/ b
 
 
 
-_Sist oppdatert: 2026-06-22_
+_Sist oppdatert: 2026-10-20_
