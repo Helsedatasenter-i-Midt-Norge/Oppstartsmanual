@@ -7,6 +7,8 @@
 <!--!!! Failure "Status: Analyserom er nede"
 	Analyserommet er nede for vedlikehold. Vi beklager ulempen dette medfører. Se egen [Status side](Status.md) for mer informasjon. -->
 
+	[Helesedatasenter innloggingsportal](https://portal.helsedatasenter.no/)
+
 
 ## Oppstartsmanual Analyserom
 
