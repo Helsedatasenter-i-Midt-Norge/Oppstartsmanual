@@ -1,4 +1,7 @@
 # Helsedatasenteret i Midt-Norge
+
+[Helsedatasenter innloggingsportal](https://portal.helsedatasenter.no/)
+
 !!! Success "Status: Ingen kjente problemer"
 
 <!--!!! Warning "Status: planlagt vedlikehold 14. okt og 15. okt Kl 20.00."
@@ -6,9 +9,6 @@
 
 <!--!!! Failure "Status: Analyserom er nede"
 	Analyserommet er nede for vedlikehold. Vi beklager ulempen dette medfører. Se egen [Status side](Status.md) for mer informasjon. -->
-
-
-[Helsedatasenter innloggingsportal](https://portal.helsedatasenter.no/)
 
 
 ## Oppstartsmanual Analyserom
