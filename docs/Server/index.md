@@ -9,5 +9,10 @@ Du finner server tilhørende analyserommet ved å trykke på hovedmenyknappen in
 
 Når du åpner serveren overtar den skjermbildet i Analyserom. For å komme tilbake til VDI-klienten må du lukke serveren ved å trykke på `X` i den blå linjen øverst på skjermen.
 
+Max to brukere kan ha tilgang til serveren samtidig.
+
 ### Installering av programvare utover forhåndsbestile programvarer
 Hvis ditt prosjekt har behov for å installere programvare som ikke er tilgjengelig i Analyserom kan dere be om å få utvidet rettighet i serveren i en begrenset periode. Denne rettigheten gjør det mulig å installere programvare. Uten utvidet rettighet er det ikke mulig å installere programvarer utover det å legge til pakker til tilgjengelig programvare i Analyserom. Ta kontakt med en rådgiver i Helsedatasenter for å få denne rettigheten.
+
+### Lokal lagring på E:
+På hver server har du tilgang til S: (prosjektmappen som også er tilgjengelig fra det vanlige VDI-miljøet), samt en lokal E:-disk. Det anbefales å bruke E: for svært store datasett, ettersom data kan behandles mye raskere her enn på S:-disken, som er nettverksbasert.
