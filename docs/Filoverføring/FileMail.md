@@ -15,7 +15,7 @@ Prosedyren:
    
 4) Lim inn nedlastingslenken i nettleseren.
 
-5) [Last ned filen(e)](#last-ned-filer) og [lagre dem på godkjent/sikkert lagringsområde i analyserommet.](#husk-a-overføre-filer-til-prosjektmappen)
+5) [Last ned filen(e)](#last-ned-filer) og [lagre dem på godkjent/sikkert lagringsområde i analyserommet.](#husk-a-overfore-filer-til-prosjektmappen)
 
 ## Kryptering av personopplysninger
 -  [Se veiledning for kryptering](https://github.com/Helsedatasenter-i-Midt-Norge/Oppstartsmanual/blob/main/docs/Filoverf%C3%B8ring/index.md#kryptering-av-personopplysninger)
