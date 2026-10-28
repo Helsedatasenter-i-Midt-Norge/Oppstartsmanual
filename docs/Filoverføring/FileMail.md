@@ -6,7 +6,8 @@ sende store filer via internett. Filemail-nettsider er "whitelisted" i Analysero
 _Hvis du ikke har mottatt lenke til opplastingsportal og tilhørende passord via e-post, kan du kontakte din Helsedatasenter-rådgiver._
 
 Prosedyren:
-1) [Last opp filene](#Last-opp-filer) via Filemail-portalen for analyserommet.
+
+1) [Last opp filene](#last-opp-filer) via Filemail-portalen for analyserommet.
    
 2) [Åpne e-posten fra Filemail](#Apne-nedlastingslenke) og kopier nedlastingslenken.
    
