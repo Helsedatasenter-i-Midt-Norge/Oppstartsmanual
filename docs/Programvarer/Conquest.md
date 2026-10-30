@@ -4,7 +4,7 @@ _En svært konfigurerbart, bildearkiverings- og kommunikasjonssystem (PACS)_
 
 ### Innstillinger
 
-De fleste innstillingene kan endres i fanen «Configuration» i Conquest Windows-appen. Ytterligere innstillinger finner du i filen c:\dicomserver\dicom.ini, men disse vil tilbakestilles til standard [...]
+De fleste innstillingene kan endres i fanen «Configuration» i Conquest Windows-appen. Ytterligere innstillinger finner du i filen c:\dicomserver\dicom.ini, men disse vil tilbakestilles til standard ved utlogging.
 
 Som standard mottas de innkommende filene i S:\dicomserver\Data\incoming, og lagres i S:\dicomserver\Data\.
 
