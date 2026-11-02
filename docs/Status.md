@@ -1,11 +1,7 @@
-!!! Success "Status: Ingen kjente problemer" 
-
-<!-- !!! Warning "Status: redusert funksjonalitet for ID-porten"
-	Dette kan medføre at du ikke får logget inn i Analyserommet. Vi anbefaler at du prøver å logge inn på nytt senere. Se [ID-porten sin status-side](https://status.digidir.no/) for mer informasjon. -->
-
-<!--!!! Failure "Status: analyserom er nede" -->
 
 ## Historikk
+**2026-11-02 15:23** Planlagt vedlikehold 2. nov kl 15.30-20.00. Det kan forekomme korte forstyrrelser i tilgangen på de angitte tidspunktene. Brukere kan bli ‘kastet ut’ plutselig men de vil kunne koble til på nytt til samme sesjon uten datatap etter kort tid
+
 **2026-10-13 09:59** Analyserom er oppe igjen. Ingen kjente problemer
 
 **2026-10-12 16:30** Analyserom er stengt frem til cirka kl. 12:00 2026-10-13 på grunn av pågående arbeid med tjenesten.
