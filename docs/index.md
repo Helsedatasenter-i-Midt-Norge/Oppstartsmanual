@@ -4,8 +4,8 @@
 
 !!! Success "Status: Ingen kjente problemer"
 
-!!! Warning "Status: planlagt vedlikehold 2. nov kl 15.30-20.00."
-	Det kan forekomme korte forstyrrelser i tilgangen på de angitte tidspunktene. Brukere kan bli ‘kastet ut’ plutselig men de vil kunne koble til på nytt til samme sesjon uten datatap etter kort tid
+<!--!!! Warning "Status: planlagt vedlikehold 2. nov kl 15.30-20.00."
+	Det kan forekomme korte forstyrrelser i tilgangen på de angitte tidspunktene. Brukere kan bli ‘kastet ut’ plutselig men de vil kunne koble til på nytt til samme sesjon uten datatap etter kort tid-->
 
 <!--!!! Failure "Status: Analyserom er nede"
 	Analyserommet er nede for vedlikehold. Vi beklager ulempen dette medfører. Se egen [Status side](Status.md) for mer informasjon. -->
