@@ -31,7 +31,8 @@ Alternativt kan du åpne filen direkte fra mappen ved å høyreklikke og velge �
 | Notepad ++ | (8.9.1) Enkel, lett og utvidbar programmeringsredigerer for ren tekst |Standard i alle analyserom|
 | [Conquest DICOM Server](Conquest.md) | (1.5.0f) svært konfigurerbart, bildearkiverings- og kommunikasjonssystem (PACS) |Kan bestilles|
 | [3DSlicer](3DSlicer.md) (Slicer) | (5.8.1) Programvarepakke for bildeanalyse og vitenskapelig visualisering |Kan bestilles|
-| NVivo | (15.0.0) et kraftig programvareverktøy for kvalitativ dataanalyse |Snart tilgjengelig ved bestilling|
+| [NVivo](NVivo.md) | (15.0.0) Et kraftig programvareverktøy for kvalitativ dataanalyse |Kan bestilles|
+| [HyperRESEARCH](HyperRESEARCH.md) | (4.5.7) Enkel verktøy for koding og analyse av kvalitative data |Kan bestilles|
 
 
-_Sist oppdatert: 2026-10-13_
+_Sist oppdatert: 2026-11-03_
