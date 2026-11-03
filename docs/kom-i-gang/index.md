@@ -18,7 +18,7 @@ Launch VMWare Horizon Client (dette etterspørres ikke alltid):
 
 ![LaunchHorizonClient](bilder/LaunchHorizonClient.jpg)
 
-Horizon Client må installeres for tilgang til Analyserom uten HMN Puls-PC. Lenker for å installere Horizon-klienten hvis den ikke er installert finner du her
+Horizon Client må installeres for tilgang til Analyserom uten HMN Puls-PC. Lenker for å installere Horizon-klienten hvis den ikke er installert finner du her. NTNU-brukere finner Horizon Client i programvarebiblioteket sitt.
 
 ![Support](bilder/Support.jpg)
 
