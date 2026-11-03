@@ -6,7 +6,7 @@ _Programvarepakke for datamanipulering, visualisering, statistikk og automatiser
 ## Lisensbruk
 Statalisensene fordeles ved hjelp av en egen lisensserver. Vi har totalt 25 samtidige lisenser tilgjengelig på deling mellom alle foretakene.
 
-Man holder på en lisens for hver gang man starter ikonet. For å unngå å oppta unødige lisenser så ber vi om at dere kun starter selve programmet en gang, og deretter heller åpner flere datasett inni selve programmet.
+Man holder på en lisens for hver gang man starter ikonet. For å unngå å oppta unødige lisenser så ber vi om at dere kun starter selve programmet en gang, og deretter heller åpner flere datasett inni selve programmet. Lukk programmet etter bruk.
 
 ## Lagring av data og tilleggspakker
 
