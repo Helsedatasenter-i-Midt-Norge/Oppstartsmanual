@@ -10,7 +10,7 @@
 <!--!!! Failure "Status: Analyserom er nede"
 	Analyserommet er nede for vedlikehold. Vi beklager ulempen dette medfører. Se egen [Status side](Status.md) for mer informasjon. -->
 
-!!! Info "**2026-11-03** Ny programvare tilgjengelig i Analyserom: NVivo 15"
+!!! Info "**2026-11-03** - Ny programvare tilgjengelig i Analyserom: NVivo 15"
 	[NVivo](Programvarer/NVivo.md) er et kraftig verktøy for kvalitativ dataanalyse. Ta kontakt med oss for å bestille til analyserommet ditt.
 
 
