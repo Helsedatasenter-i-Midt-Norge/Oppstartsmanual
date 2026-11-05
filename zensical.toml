@@ -57,7 +57,9 @@ nav = [
   {"Programvarer" = [
     "Programvarer/index.md",
     "Programvarer/Conquest.md",
+    "Programvarer/HyperRESEARCH.md",
     "Programvarer/LibreOffice.md",
+    "Programvarer/NVivo.md",
     "Programvarer/Pycharm.md",
     "Programvarer/Python.md",
     "Programvarer/RStudio.md",
