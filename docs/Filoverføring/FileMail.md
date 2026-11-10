@@ -9,16 +9,16 @@ Prosedyren:
 
 1) [Last opp filene](#last-opp-filer) via Filemail-portalen for analyserommet.
    
-2) [Åpne e-posten fra Filemail](#Åpne-nedlastingslenke) og kopier nedlastingslenken.
+2) [Åpne e-posten fra Filemail](#apne-nedlastingslenke) og kopier nedlastingslenken.
    
 3) Logg inn i analyserommet og åpne nettleseren (Edge).
    
 4) Lim inn nedlastingslenken i nettleseren.
 
-5) [Last ned filen(e)](#Last-ned-filer) og [lagre dem på godkjent/sikkert lagringsområde i analyserommet.](#husk-å-overføre-filer-til-prosjektmappen)
+5) [Last ned filen(e)](#last-ned-filer) og [lagre dem på godkjent/sikkert lagringsområde i analyserommet.](#husk-a-overfre-filer-til-prosjektmappen)
 
 ## Kryptering av personopplysninger
--  [Se veiledning for kryptering](https://github.com/Helsedatasenter-i-Midt-Norge/Oppstartsmanual/blob/main/docs/Filoverf%C3%B8ring/index.md#kryptering-av-personopplysninger)
+-  [Se veiledning for kryptering](../Filoverføring/index.md#kryptering-av-personopplysninger)
 
 ## Last opp filer
 Du, eller datakilden din (for eksempel Helsedataservice), må åpne lenken til opplastingsportalen (`https://hemit.filemail/...`, mottatt via e-post) i en nettleser utenfor Analyserom. Når siden er lastet inn, må du skrive inn tilsendt passord og trykk på "Unlock".
