@@ -1,5 +1,7 @@
 
 ## Historikk
+**2026-11-10 7:59** ID-porten har redusert funksjonalitet. Dette kan medføre at du ikke får logget inn i Analyserommet. Vi beklager ulempen dette medfører. Følg [Digdir](https://status.digdir.no/incidents/cw6cklj6m8qc) sin status for mer informasjon.
+
 **2026-11-02 15:23** Planlagt vedlikehold 2. nov kl 15.30-20.00. Det kan forekomme korte forstyrrelser i tilgangen på de angitte tidspunktene. Brukere kan bli ‘kastet ut’ plutselig men de vil kunne koble til på nytt til samme sesjon uten datatap etter kort tid
 
 **2026-10-13 09:59** Analyserom er oppe igjen. Ingen kjente problemer
