@@ -22,11 +22,11 @@ Alternativt kan du åpne filen direkte fra mappen ved å høyreklikke og velge �
 | [LibreOffice](LibreOffice.md)   | (25.8) Programvarepakke for kontorproduktivitet. Tilsvarer Microsoft Office        |Standard i alle analyserom
 | Microsoft Edge | (149.0) Nettleser |Standard i alle analyserom|
 | [IBM SPSS Statistics](SPSS.md) | (30.0) Programvarepakke med grafisk grensesnitt for statistiske beregninger |Kan bestilles|
-| [R](RStudio.md) | (4.5.1) Programmeringsspråk og programvaremiljø som brukes til statistiske beregninger og avansert datavisualisering |Kan bestilles|
+| [R](RStudio.md) | (4.6.1) Programmeringsspråk og programvaremiljø som brukes til statistiske beregninger og avansert datavisualisering |Kan bestilles|
 | [RStudio](RStudio.md) | (2025.09) Integrert utviklingsmiljø (IDE) for R |Kan bestilles|
 | [STATA](STATA.md) | (19.5 SE) Programvarepakke for datamanipulering, visualisering, statistikk og automatisert rapportering |Kan bestilles|
 | [Python](Python.md) | (3.11) Allsidig høytnivå programmeringsspråk, mye brukt til datavitenskap, kunstig intelligens (KI) og oppgaveautomatisering. |Kan bestilles|
-| [PyCharm Community Edition](Pycharm.md) | (2025.2.2) Integrert utviklingsmiljø (IDE) brukt til programmering i Python |Kan bestilles|
+| [PyCharm Community Edition](Pycharm.md) | (2026.06.0) Integrert utviklingsmiljø (IDE) brukt til programmering i Python |Kan bestilles|
 | [Visual Studio Code](VSCode.md) | (1.106.3) Allsidig integrert utviklingsmiljø (IDE) |Kan bestilles|
 | Notepad ++ | (8.9.1) Enkel, lett og utvidbar programmeringsredigerer for ren tekst |Standard i alle analyserom|
 | [Conquest DICOM Server](Conquest.md) | (1.5.0f) svært konfigurerbart, bildearkiverings- og kommunikasjonssystem (PACS) |Kan bestilles|
@@ -35,4 +35,4 @@ Alternativt kan du åpne filen direkte fra mappen ved å høyreklikke og velge �
 | [HyperRESEARCH](HyperRESEARCH.md) | (4.5.7) Enkel verktøy for koding og analyse av kvalitative data |Kan bestilles|
 
 
-_Sist oppdatert: 2026-11-03_
+_Sist oppdatert: 2026-11-12_
