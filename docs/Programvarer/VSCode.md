@@ -20,7 +20,7 @@ På en PC med nettilgang:
 
 2. Finn ønsket extension. Utvidelser må være kompatible med VS Code‑versjonen.
 
-3. Last ned extension som en `.vsix`‑fil fra [VSIX Download](https://github.pratikpathak.com/vsix-downloader/) (bruk win32-x64 versjoner)
+3. Last ned extension som en `.vsix`‑fil fra [VSIX Downloader](https://vsix.2i.gs/) (bruk win32-x64 versjoner)
 
 4. Overfør `.vsix`‑filen til analyserommet via Filemail eller FileSender
 
