@@ -55,7 +55,7 @@ Anbefalt fremgangsmåte:
 
 - [Offisiell dokumentasjon](https://code.visualstudio.com/docs)
 - [Extension Marketplace](https://marketplace.visualstudio.com/VSCode)
-- [VSIX Download](https://github.pratikpathak.com/vsix-downloader/)
+- [VSIX Downloader](https://vsix.2i.gs/)
 
 
-_Last updated: 2026-06-22_
+_Last updated: 2026-11-19_
