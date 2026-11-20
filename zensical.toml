@@ -52,6 +52,7 @@ nav = [
   {"Kom i gang" = [
     "kom-i-gang/index.md",
     "kom-i-gang/Tilgang.md",
+    "kom-i-gang/BegrensedeFilområder.md",
     "kom-i-gang/Utklippstavle.md",
     "kom-i-gang/Avslutt.md"
    ]},
