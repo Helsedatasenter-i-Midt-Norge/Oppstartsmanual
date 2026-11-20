@@ -75,7 +75,7 @@ nav = [
   {"Server" = [
     "Server/index.md"
   ]},
-  {"Viktig informasjon" = "Oppdateringer.md"},
+  {"Oppdateringer" = "Oppdateringer.md"},
   {"Status" = "Status.md"}
 ]
 
