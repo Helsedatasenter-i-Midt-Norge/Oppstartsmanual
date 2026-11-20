@@ -8,9 +8,7 @@
 	Det kan forekomme korte forstyrrelser i tilgangen på de angitte tidspunktene. Brukere kan bli ‘kastet ut’ plutselig men de vil kunne koble til på nytt til samme sesjon uten datatap etter kort tid-->
 
 !!! Failure "Status: Analyserom er nede"
-	2026-11-20 8:37: Vi opplever for tiden driftsforstyrrelser som påvirker innlogging til Helsedatasenterets portal. Hendelsen oppstod i løpet av kvelden/natten, og feilsøking og utbedringsarbeid pågår.
-
-Brukere må dessverre regne med redusert tilgjengelighet og manglende mulighet for pålogging gjennom store deler av formiddagen. Vi vil publisere oppdateringer så snart mer informasjon er tilgjengelig.
+	2026-11-20 8:37: Vi opplever for tiden driftsforstyrrelser som påvirker innlogging til Helsedatasenterets portal. Hendelsen oppstod i løpet av kvelden/natten, og feilsøking og utbedringsarbeid pågår. Brukere må dessverre regne med redusert tilgjengelighet og manglende mulighet for pålogging gjennom store deler av formiddagen. Vi vil publisere oppdateringer så snart mer informasjon er tilgjengelig.
 
 !!! Info "**2026-11-03** - Ny programvare tilgjengelig i Analyserom: NVivo 15"
 	[NVivo](Programvarer/NVivo.md) er et kraftig verktøy for kvalitativ dataanalyse. Ta kontakt med oss for å bestille til analyserommet ditt.
