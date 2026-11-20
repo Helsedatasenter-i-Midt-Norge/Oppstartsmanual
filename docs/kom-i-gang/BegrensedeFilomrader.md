@@ -6,6 +6,8 @@ Begrensede filområder brukes når det er behov for tilgangsstyring av informasj
 
 Et typisk bruksområde er lagring av koblingsnøkler eller annen informasjon som kun skal være tilgjengelig for bestemte personer.
 
+Alle undermapper og filer i et begrenset filområde arver tilgangsrettighetene til mappen de ligger i.
+
 ## Hvordan bestille et begrenset filområde?
 
 Opprettelse av begrensede filområder bestilles via en forskningsrådgiver.
@@ -22,6 +24,6 @@ Forskningsrådgiver vil deretter sørge for at riktig tilgangsstyring blir etabl
 
 Begrensede filområder ligger på **S:-disken**.
 
-For å gjøre dem enkle å identifisere starter alle begrensede filområder med prefikset:
+For å gjøre dem enkle å identifisere starter alle begrensede filområder med prefikset: "_Begrenset"
 
 _Sist endret 2026-11-20_
